@@ -1,0 +1,82 @@
+.container-fluid
+{
+  background-color:#f0c2dd;
+  border-radius:20px;
+  
+}
+.navbar
+{
+  background-color:#e98ec3;
+  box-shadow: none;
+  outline:2px; 
+  border-radius:50px;
+  border-color:#f52ca1 ;
+  
+  
+}
+.nav-link
+{
+  font-weight:bolder;
+  text-shadow: 50px;
+}
+.form-control
+{
+  width: max-content;
+ 
+
+}
+#btnbtn
+{
+  margin-right: 60px;
+}
+.card
+{
+  background-color: lightsalmon;
+  height:500px;
+  margin:0px 10px;
+  border-radius: 20px;
+}
+.card-img
+{
+  width:80%;
+  height: 500px;
+  align-self: center;
+  padding: 20px ;
+  border-radius: 50px;
+  
+}
+.card-img-overlay
+{
+
+  text-align: center;
+  padding: 15% 15%;
+  color: lawngreen;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin:5px;
+  
+}
+#img
+{
+  height: 350px;
+}
+#img1
+{
+  padding:10px;
+}
+#description
+{
+  height:100px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.footer
+{
+  background-color: #f7c95f;
+  height: 250px;
+  border-radius: 30px;
+
+}
+body{
+  background-color:#f0c2dd;
+}
